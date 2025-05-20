@@ -1,19 +1,18 @@
 # 👗 FashionHub
 
-FashionHub is a clean and stylish front-end fashion website template designed to showcase clothing collections, new arrivals, and accessories. Perfect for modern brands looking to establish a sleek online presence.
+**FashionHub** is a modern, stylish fashion website template showcasing new arrivals, collections, and accessories. Designed for fashion brands looking to create a clean and elegant web presence.
+
+## 🌐 Live Demo
+
+👉 [View the Live Site](https://karanahuja324.github.io/fashionhub/)
 
 ## 🌟 Features
 
-- Responsive navigation menu
-- Font Awesome icons for cart, user, and search
-- Hero section with promotional messaging
-- Clean HTML/CSS layout
-- Easy to customize and expand
-
-## 🔗 Live Demo
-
-👉 [View the Website](https://your-username.github.io/your-repo/) *(Replace with actual link)*
+- Responsive header with navigation
+- Font Awesome icons (cart, user, search)
+- Hero section with promo content
+- Clean HTML and CSS layout
+- Easily customizable and lightweight
 
 ## 📁 Project Structure
-
 
